@@ -22,5 +22,6 @@ Each loop iterates over the rows of the diamond, adjusting the number of spaces 
 
 Suppose the user enters `3`:
 
-![Example](img/ss_hw.png)
+![image](https://github.com/basaranseyma/Java_Homework24/assets/128006262/a788d961-a02e-458d-a4ab-bb0092f65b2c)
+
 
